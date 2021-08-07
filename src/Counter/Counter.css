@@ -1,0 +1,40 @@
+.counter {
+    margin: 0;
+    background-color: rgba(63, 118, 168, 0.5);
+    font-size: 1rem;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Btn {
+    width: 10vw;
+    /* border:2px solid rgba(209, 37, 37, 0.933); */
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+    height: 4vh;
+    font-size: 1rem;
+  }
+  
+  .incBtn {
+    background-color: rgb(47, 206, 145);
+    color: #ffff;
+  }
+  
+  .decBtn {
+    background-color: rgb(206, 47, 47);
+    color: #ffff;
+  }
+  
+  .resetBtn {
+    background-color: rgb(206, 142, 47);
+    color: #ffff;
+  }
+  
+  .countDis {
+    font-size: 1.5rem;
+  }
+  
